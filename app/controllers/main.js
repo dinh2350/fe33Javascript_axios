@@ -1,5 +1,9 @@
 var nguoiDungService = new NguoiDungService();
 
+function thehao() {
+  console.log("them thành công");
+}
+
 getListUser();
 
 getEle("btnThemNguoiDung").addEventListener("click", function() {
