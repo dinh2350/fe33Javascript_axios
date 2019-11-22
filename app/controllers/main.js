@@ -1,7 +1,7 @@
 var nguoiDungService = new NguoiDungService();
 
 function thehao() {
-  console.log("them thành công");
+  console.log("them thành công 2");
 }
 
 getListUser();
